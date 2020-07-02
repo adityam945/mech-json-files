@@ -1,0 +1,23 @@
+[
+    {
+    "branchname":"Mechanical Engineering",
+    "semno":"3",
+    "subjname":"Material Science",
+    "subjcode":"17ME32",
+    "valuename":"notes-NO url",
+    "notesdata": [
+      {
+        "notesname":"Module1",
+        "notesurl":""
+      },
+      {
+        "notesname":"module2",
+        "notesurl":""
+      },
+            {
+        "notesname":"module3",
+        "notesurl":""
+      }
+    ]
+  }
+]
