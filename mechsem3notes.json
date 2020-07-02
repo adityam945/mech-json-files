@@ -9,27 +9,30 @@
         "subjdata":[
           {
             "id":"3456",
+            "disabled": "disabled",
             "subjname":"Engineering Mathematics-III",
             "subjcode":"17MAT31",
-            "notesurl":"",
+            "notesurl":"https://adityam945.github.io/mech-json-files/",
             "notesscreenname":"NotesListFile",
-            "notesscreenparams":""
+            "notesscreenparams":"17mat31notes.json"
           },
           {
             "id":"2456",
+            "disabled": "disabled",
             "subjname":"MATERIAL SCIENCE",
             "subjcode":"17ME32",
-            "notesurl": "",
+            "notesurl": "https://adityam945.github.io/mech-json-files/",
             "notesscreenname": "NotesListFile",
-            "notesscreenparams":""
+            "notesscreenparams":"17me32notes.json"
           },
           {
           "id":"5566",
+          "disabled": "disabled",
           "subjname":"Basic Thermodynamics",
           "subjcode":"17ME33",
-          "notesurl": "",
+          "notesurl": "https://adityam945.github.io/mech-json-files/",
             "notesscreenname": "NotesListFile",
-            "notesscreenparams":""
+            "notesscreenparams":"17me33notes.json"
 
           }
       ]
