@@ -4,8 +4,6 @@
     "branchname": "MECHANICAL ENGINEERING",
     "subjno": "6",
     "labno": "2",
-    "subjects": [
-      {
         "subj1": "Engineering Mathematics - III",
         "sub1code": "17MAT31",
         "subj2": "Material Science",
@@ -30,8 +28,6 @@
         "lab3code": "17MEL38A",
         "labname4": "MACHINE SHOP",
         "lab4code": "17MEL38B"
-      }
-    ],
     "subj1data": [
       {
         "disabled": "disabled",
