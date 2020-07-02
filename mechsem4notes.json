@@ -1,0 +1,39 @@
+[
+    {
+    "branchname":"Mechanical Engineering",
+      "semno":"",
+      "valuename":"notes",
+      "semdata": [
+        {
+          "semno": "4",
+          "subjdata":[
+            {
+              "id":"1567",
+              "subjname":"Engineering Mathematics-4",
+              "subjcode":"17MAT41",
+              "notesurl":"",
+              "notesscreenname":"NotesListFile",
+              "notesscreenparams":""
+            },
+            {
+              "id":"8907",
+              "subjname":"Kinematics of Machinery",
+              "subjcode":"17ME42",
+              "notesurl": "",
+              "notesscreenname": "NotesListFile",
+              "notesscreenparams":""
+            },
+            {
+            "id":"7865",
+            "subjname":"Applied Thermodynamics",
+            "subjcode":"17ME43",
+            "notesurl": "",
+              "notesscreenname": "NotesListFile",
+              "notesscreenparams":""
+
+            }
+        ]
+        }
+        ]
+        }
+    ]
