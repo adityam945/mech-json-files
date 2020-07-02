@@ -1,0 +1,23 @@
+[
+    {
+      "branchname":"Mechanical Engineering",
+      "semno":"3",
+      "subjname":"Engineering Mathematics-III",
+      "subjcode":"17MAT31",
+      "valuename":"notes-NO added url",
+      "notesdata": [
+        {
+          "notesname":"Module1",
+          "notesurl":""
+        },
+        {
+          "notesname":"module2",
+          "notesurl":""
+        },
+              {
+          "notesname":"module3",
+          "notesurl":""
+        }
+      ]
+    }
+  ]
