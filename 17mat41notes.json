@@ -1,0 +1,23 @@
+[
+    {
+    "branchname":"Mechanical Engineering",
+    "semno":"4",
+    "subjname":"Engineering Mathematics–4",
+    "subjcode":"17MAT41",
+    "valuename":"notes-18 sch",
+    "notesdata": [
+      {
+        "notesname":"Module1",
+        "notesurl":""
+      },
+      {
+        "notesname":"module2",
+        "notesurl":""
+      },
+            {
+        "notesname":"module3",
+        "notesurl":""
+      }
+    ]
+  }
+]
