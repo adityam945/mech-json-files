@@ -4,6 +4,7 @@
     "semdata": [
       {
         "id":"1890",
+        "disabled": "disabled",
         "semname":"Sem 3",
         "labno":"2",
         "subjno":"6",
@@ -30,6 +31,7 @@
       },
       {
       "id":"2540",
+      "disabled": "disabled",
       "semname":"Sem 4",
       "labno":"2",
       "subjno":"6",
