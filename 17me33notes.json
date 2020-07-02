@@ -1,0 +1,23 @@
+[
+    {
+    "branchname":"Mechanical Engineering",
+    "semno":"3",
+    "subjname":"Basic Thermodynamics",
+    "subjcode":"17ME33",
+    "valuename":"notes",
+    "notesdata": [
+      {
+        "notesname":"Module1",
+        "notesurl":""
+      },
+      {
+        "notesname":"module2",
+        "notesurl":""
+      },
+            {
+        "notesname":"module3",
+        "notesurl":""
+      }
+    ]
+  }
+]
