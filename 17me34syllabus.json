@@ -1,0 +1,28 @@
+ [
+      {
+        "disabled": "disabled",
+        "subcode": "17MAT34",
+        "subname": "Mechannics Of Materials",
+        "m1": "Module 1",
+        "m1desc": "Stress and Strain:Introduction,Hooke’s law, Calculation of stresses in straight,Stepped and tapered sections,Composite sections,Stresses due to temperature change,Shear stress and strain,Lateral strain and Poisson’s ratio,Generalized Hooke’s law,Bulk modulus,Relationship between elastic constants.",
+        "m2": "Module 2",
+        "m2desc": "Analysis of Stress and Strain:Plane stress,Stresses on inclined planes,Principal stresses and maximum shear stress,Principal angles,Shear stresses on principal planes,Maximum shear tress,Mohr circle for plane stress conditions.\nCylinders:Thin cylinder:Hoop’s stress,maximum shear stress,circumferential and longitudinal strains,Thick cylinders:Lames equations.",
+        "m3": "Module 3",
+        "m3desc": "Shear Forces and Bending Moments:Type of beams,Loads and reactions,Relationship between loads,shear forces and bending moments,Shear force and bending moments of cantilever beams,Pin support and roller supported beams subjected to concentrated loads and uniformly distributed constant/varying loads.\nStress in Beams:Pure bending,Curvature of a beam,Longitudinal strains in beams,Normal stresses in Beams with rectangular,circular,‘I’ and ‘T’ cross sections,Flexure Formula,Bending Stresses.",
+        "m4": "Module 4",
+        "m4desc": "Torsion:Circular solid and hallow shafts,Torsional moment of resistance,Power transmission of straight and stepped shafts,Twist in shaft sections,Thin tubular sections,Thin walled sections.\nColumns:Buckling and stability,Critical load,Columns with pinned ends,Columns with other support conditions,Effective length of columns,Secant formula for columns.",
+        "m5": "Module 5",
+        "m5desc": "Strain Energy:Castigliano’s theorem I and II,Load deformation diagram,Strain energy due to normal stresses,Shear stresses,Modulus of resilience,Strain energy due to bending and torsion.\nTheories of Failure:Maximum Principal stress theory,Maximum shear stress theory.",
+        "descname": "Prescribed text books",
+        "descdata": "TEXT BOOKS:1.James M Gere,Barry J Goodno,Strength of Materials,Indian Edition,Cengage Learning,2009.\n2.R Subramanian,Strength of Materials,Oxford,2005\nREFERENCE BOOKS:1.S S Rattan,Strength of Materials,Second Edition,McGraw Hill,2011.\n2.Ferdinand Beer and Russell Johston,Mechanics of materials,Tata McGraw Hill,2003.",
+        "notesurl": "https://adityam945.github.io/mech-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/mech-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/mech-json-files/",
+        "qbscreenparams": ""
+      }
+    ]
