@@ -1,0 +1,28 @@
+[
+      {
+        "disabled": "disabled",
+        "subcode": "17ME32",
+        "subname": "MATERIAL SCIENCE",
+        "m1": "Module 1",
+        "m1desc": "Basics,Mechanical Behavior,Failure of Materials:\nIntroduction to Crystal Structure – Coordination number,atomic packing factor,Simple Cubic,BCC,FCC and HCP Structures,Crystal imperfections – point,line,surface and volume imperfections.\nAtomic Diffusion:Phenomenon,Fick’s laws of diffusion;Factors affecting diffusion.\nMechanical Behavior:Stress-strain diagrams showing ductile and brittle behavior of materials,Engineering and true strains,Linear and non-linear elastic behavior and properties,Mechanical properties in plastic range.Stiffness,Yield strength,Offset Yield strength,Ductility,Ultimate Tensile strength,Toughness,Plastic deformation of single crystal by slip and twinning,Mechanisms of strengthening in metals.\nFracture:Type I, Type II and Type III.\nFatigue:Types of fatigue loading with examples,Mechanism of fatigue,Fatigue properties,S-N diagram,Fatigue testing.\nCreep:Description of the phenomenon with examples,three stages of creep,creep properties,Stress relaxation.Concept of fracture toughness.",
+        "m2": "Module 2",
+        "m2desc": "Alloys, Steels, Solidification\nConcept of formation of alloys:Types of alloys,solid solutions,factors affecting solid solubility (Hume Rothery rules),Binary phase diagrams:Eutectic,and Eutectoid systems,Lever rule,Substitutional and interstitial solid solutions,Intermediate phases,Gibbs phase rule Effect of non- equilibrium cooling,Coring and Homogenization Iron-Carbon (Cementite) diagram:description of phases,Specifications of steels.\nSolidification:Mechanism of solidification,Homogenous and Heterogeneous nucleation,Crystal growth,Numerical on lever rule",
+        "m3": "Module 3",
+        "m3desc": "Heat Treatment,Ferrous and Non-Ferrous Alloys\nHeat treating of metals:Time-Temperature-Transformation (TTT) curves,Continuous Cooling Transformation (CCT) curves,\nAnnealing:Recovery,Recrystallization and Grain growth,Types of annealing,Normalizing,Hardening,Tempering,Martempering,Austempering,Concept of hardenability,Factors affecting it hardenability,surface hardening methods:carburizing,cyaniding,nitriding,flame hardening and induction hardening,Age hardening of aluminum-copper alloys and PH steels.\nFerrous materials:Properties,Compositions and uses of Grey cast iron,Malleable iron,SG iron and steel",
+        "m4": "Module 4",
+        "m4desc": "Other Materials,Material Selection\nCeramics:Structure types and properties and applications of ceramics.Mechanical/Electrical behavior and processing of Ceramics.Plastics:Various types of polymers/plastics and their applications.Mechanical behaviors and processing of plastics,Failure of plastics.\nOther materials:Smart materials and Shape Memory alloys,properties and applications.",
+        "m5": "Module 5",
+        "m5desc": "Composite Materials\nComposite materials - Definition,classification,types of matrix materials & reinforcements,Metal Matrix Composites (MMCs),Ceramic Matrix Composites(CMCs) and Polymer Matrix Composites (PMCs),Particulate-reinforced and fiber-reinforced composites,Fundamentals of production of composites,Processes for production of composites,Constitutive relations of composites,Numerical problems on determining properties of composites",
+        "descname": "Prescribed text books",
+        "descdata": "TEXT BOOKS:\n1.Smith,Foundations of Materials Science and Engineering,4th Edition,McGraw Hill,2009.\n2.William D.Callister,Material science and Engineering and Introduction,Wiley,2006.\n\nREFERENCE BOOKS:\n1.V.Raghavan,Materials Science and Engineering,PHI,2002\n2.Donald R.Askland and Pradeep.P.Phule,The Science and Engineering of Materials,Cengage Learning,4lh Ed.,2003.\n3.George Ellwood Dieter,Mechanical Metallurgy,McGraw-Hill.\n4.ASM Handbooks,American Society OF Metals.",
+        "notesurl": "https://adityam945.github.io/mech-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17me32notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/mech-json-files/",
+        "qpscreenparams": "17me32qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/mech-json-files/",
+        "qbscreenparams": "17me32qb.json"
+      }
+    ]
