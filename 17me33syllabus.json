@@ -1,0 +1,28 @@
+[
+      {
+        "disabled": "disabled",
+        "subcode": "17ME33",
+        "subname": "Basic Thermodynamics",
+        "m1": "Module 1",
+        "m1desc": "Fundamental Concepts & Definitions:Thermodynamic definition and scope,Microscopic and Macroscopic approaches.Some practical applications of engineering thermodynamic Systems,Characteristics of system boundary and control surface,examples.\nThermodynamic properties:definition and units,intensive,extensive properties,specific properties,pressure,specific volume Thermodynamic state,state point,state diagram,path and process,quasi-static process,cyclic and non-cyclic;processes;Thermodynamic equilibrium;definition,mechanical equilibrium;diathermic wall,thermal equilibrium,chemical equilibrium,Zeroth law of thermodynamics,Temperature;concepts,scales,international fixed points and measurement of temperature.Constant volume gas thermometer,constant pressure gas thermometer,mercury in glass thermometer.\nWork and Heat:Mechanics,definition of work and its limitations.Thermodynamic definition of work;examples,sign convention.Displacement work;as a part of a system boundary,as a whole of a system boundary,expressions for displacement work in various processes through p-v diagrams.Shaft work;Electrical work. Other types of work. Heat; definition, units and sign convention.Problems",
+        "m2": "Module 2",
+        "m2desc": "First Law of Thermodynamics:Joules experiments,equivalence of heat and work.Statement of the First law of thermodynamics,extension of the First law to non-cyclic processes,energy,energy as a property,modes of energy,Extension of the First law to control volume;steady flow energy equation(SFEE),important applications.\nSecond Law of Thermodynamics:limitations of first law of thermodynamics Devices converting heat to work;(a) in a thermodynamic cycle,(b) in a mechanical cycle.Thermal reservoir,Direct heat engine;schematic representation and efficiency.Devices converting work to heat in a thermodynamic cycle;reversed heat engine,schematic representation,coefficients of performance.Kelvin-Planck statement of the Second law of Thermodynamics;PMM I and PMM II,Clausius statement of Second law of Thermodynamics, Equivalence of the two statements;Carnot cycle, Carnot principles.Problems.",
+        "m3": "Module 3",
+        "m3desc": "Reversibility:Definitions of a reversible process,reversible heat engine,importance and superiority of a reversible heat engine and irreversible processes;factors that make a process irreversible,reversible heat engines.Unresisted expansion,remarks on Carnot’s engine,internal and external reversibility,Definition of the thermodynamic temperature scale.Problems\nEntropy:Clasius inequality,Statement-proof,Entropy-definition,a property,change of entropy,entropy as a quantitative test for irreversibility,principle of increase in entropy,entropy as a coordinate.",
+        "m4": "Module 4",
+        "m4desc": "Availability,Irreversibility and General Thermodynamic relations.Introduction,Availability (Exergy),Unavailable energy,Relation between increase in unavailable energy and increase in entropy.Maximum work,maximum useful work for a system and control volume,irreversibility,second law efficiency.\nPure Substances:P-T and P-V diagrams,triple point and critical points.Sub-cooled liquid,saturated liquid,mixture of saturated liquid and vapor,saturated vapor and superheated vapor states of pure substance with water as example.Enthalpy of change of phase (Latent heat).Dryness fraction (quality),T-S and H-S diagrams,representation of various processes on these diagrams.Steam tables and its use.Throttling calorimeter,separating and throttling calorimeter.",
+        "m5": "Module 5",
+        "m5desc": "Ideal gases:Ideal gas mixtures,Daltons law of partial pressures,Amagat’s law of additive volumes,evaluation of properties of perfect and ideal gases,Air-Water mixtures and related properties.\nReal gases–Introduction,Van-der Waal's Equation of state,Van-der Waal's constants in terms of critical properties,Beattie-Bridgeman equation,Law of corresponding states,compressibility factor;compressibility chart.Difference between Ideal and real gases.",
+        "descname": "Prescribed text books",
+        "descdata": "TEXT BOOKS:\n1.Basic Engineering Thermodynamics,A.Venkatesh,Universities Press,2008\n2.Basic and Applied Thermodynamics,P.K.Nag,2nd Ed.,Tata McGraw Hill Pub.2002",
+        "notesurl": "https://adityam945.github.io/mech-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17me33notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/mech-json-files/",
+        "qpscreenparams": "17me33qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/mech-json-files/",
+        "qbscreenparams": "17me33qb.json"
+      }
+    ]
