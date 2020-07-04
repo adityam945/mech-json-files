@@ -1,0 +1,72 @@
+[
+  {
+    "semno": "Semester 3",
+    "branchname": "MECHANICAL ENGINEERIN",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/aero-json-files/",
+    "subjdata": [
+      {
+        "subj": "Engineering Mathematics-III",
+        "subjcode": "17MAT31",
+        "subjparams": "17mat31syllabus.json"
+      },
+      {
+        "subj": "Material Science",
+        "subjcode": "17ME32",
+        "subjparams": "17me32syllabus.json"
+      },
+      {
+        "subj": "Basic Thermodynamics",
+        "subjcode": "17ME33",
+        "subjparams": "17ae33syllabus.json"
+      },
+      {
+        "subj": "Mechanics of Materials",
+        "subjcode": "17ME34",
+        "subjparams": "17me34syllabus.json"
+      },
+      {
+        "subj": "Metal Casting And Welding",
+        "subjcode": "17ME35A /45A",
+        "subjparams": "17me35a45asyllabus.json"
+      },
+      {
+        "subj": "Machine Tools And Operation",
+        "subjcode": "17ME35B /45B",
+        "subjparams": "17me35b45bsyllabus.json"
+      },
+      {
+        "subj": "Computer Aided Machine Drawing",
+        "subjcode": "17ME36A/46A",
+        "subjparams": "17me36a46asyllabus.json"
+      },
+      {
+        "subj": "Mechanical Measurements And Metrology",
+        "subjcode": "17ME36B/ 46B",
+        "subjparams": "17me36b46bsyllabus.json"
+      },
+      {
+        "subj": "MATERIALS TESTING LAB",
+        "subjcode": "17MEL37A",
+        "subjparams": ""
+      },
+      {
+        "subj": "MECHANICAL MEASUREMENTS AND METROLOGY LAB",
+        "subjcode": "17MEL37B",
+        "subjparams": ""
+      },
+      {
+        "subj": "FOUNDRY AND FORGING LAB",
+        "subjcode": "17MEL38A",
+        "subjparams": ""
+      },
+      {
+        "subj": "MACHINE SHOP",
+        "subjcode": "17MEL38B",
+        "subjparams": ""
+      }
+    ]
+  }
+]
