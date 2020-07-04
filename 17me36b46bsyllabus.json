@@ -1,0 +1,28 @@
+[
+      {
+        "disabled": "disabled",
+        "subcode": "17ME36B/ 46B",
+        "subname": "Mechanical Measurements And Metrology",
+        "m1": "Module 1",
+        "m1desc": "MACHINE TOOLS:\nIntroduction to Metrology:Definition,objectives and concept of metrology,Need of inspection,Principles,process,methods of measurement,Classification and selection of measuring instruments and systems.Accuracy,precision and errors in measurement.System of measurement,Material Standard,Wavelength Standards,Subdivision of standards,Line and End standards,Classification of standards and Traceability,calibration of End bars (Numerical Problems),standardization.\nLinear Measurement and angular measurements:Slip gauges- Indian standards on slip gauge,method of selection of slip gauge,stack of slip gauge,adjustable slip gauge,wringing of slip gauge,care of slip gauge,slip gauge accessories,problems on building of slip gauges(M87,M112).Measurement of angles-sine bar,sine center,angle gauges,optical instruments for angular measurements,Auto collimator-applications for measuring straightness and squareness.",
+        "m2": "Module 2",
+        "m2desc": "System of Limits,Fits,Tolerance and Gauging:Definition of tolerance,Specification in assembly,Principle of interchangeability and selective assembly,limits of size,Indian standards,concept of limits of size and tolerances,definition of fits,hole basis system,shaft basis system,types of fits and their designation(IS 919-1963),geometric tolerance,position-tolerances.Classification of gauges,brief concept of design of gauges (Taylor's principles),Wear allowance on gauges,Types of gauges-plain plug gauge,ring gauge,snap gauge,limit gauge and gauge materials.\nComparators:Functional requirements,classification,mechanical-Johnson Mikrokator,sigma comparators,dial indicator,electrical- principles,LVDT,Pneumatic- back pressure gauges,Solex comparators and optical comparators-Zeiss ultra-optimeter.",
+        "m3": "Module 3",
+        "m3desc": "Measurement of screw thread and gear:Terminology of screw threads,measurement of major diameter,minor diameter,pitch,angle and effective diameter of screw threads by 2-wire and 3- wire methods,best size wire.Screw thread gauges,Tool maker's microscope.Gear tooth terminology,tooth thickness measurement using constant chord method,addendum comparator method and base tangent method,measurement of pitch,concentricity,run out, and involute profile.Gear roll tester for composite error.\nAdvances in metrology:Basic concepts of lasers,advantages of lasers,laser interferometers,types,applications.Basic concepts of Coordinate Measuring Machines-constructional features,applications.",
+        "m4": "Module 4",
+        "m4desc": "Measurement systems and basic concepts of measurement methods:Definition,significance of measurement,generalized measurement system,definitions and concept of accuracy,precision,calibration,threshold,sensitivity,hysteresis,repeatability,linearity,loading effect,system response-time delay.Errors in measurement,classification of errors.Transducers,transfer efficiency,primary and secondary transducers,electrical,mechanical,electronic transducers,advantages of each type transducers.\nIntermediate modifying and terminating devices:Mechanical systems,inherent problems,electrical intermediate modifying devices,input circuitry,ballast circuit,electronic amplifiers.Terminating devices,Cathode ray oscilloscope,Oscillographs.",
+        "m5": "Module 5",
+        "m5desc": "Force,Torque and Pressure Measurement:Direct methods and indirect method,force measuring inst.Torque measuring inst.Types of dynamometers,Absorption dynamometer,Prony brake and rope brake dynamometer,and power measuring instruments.Pressure measurement,principle,use of elastic members,Bridgeman gauge,McLeod gauge,Pirani gauge.\nMeasurement of strain and temperature:Theory of strain gauges,types,electrical resistance strain gauge,preparation and mounting of strain gauges,gauge factor,methods of strain measurement.Temperature Compensation,Wheatstone bridge circuit,orientation of strain gauges for force and torque,Strain gauge based load cells and torque sensors.Resistance thermometers,thermocouple,law of thermocouple,materials used for construction,pyrometer,optical pyrometer.",
+        "descname": "Prescribed text books",
+        "descdata": "TEXT BOOKS:\n1.Mechanical Measurements,Beckwith Marangoni and Lienhard,Pearson Education,6th Ed.2006.\n2.Engineering Metrology,R.K.Jain,Khanna Publishers,Delhi,2009.\nREFERENCE BOOKS:1.Engineering Metrology and Measurements,Bentley,Pearson Education.\n2.Theory and Design for Mechanical Measurements,III edition,Richard S Figliola,Donald E Beasley,WILEY India Publishers.\n3.Engineering Metrology,Gupta I.C.DhanpatRai Publications.\n4.Deoblin’s Measurement system,Ernest Deoblin,Dhaneshmanick, McGraw –Hill.\n5.Engineering Metrology and Measurements,N.V.Raghavendra and L.Krishnamurthy,Oxford University Press.",
+        "notesurl": "https://adityam945.github.io/mech-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/mech-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/mech-json-files/",
+        "qbscreenparams": ""
+      }
+    ]
