@@ -1,0 +1,28 @@
+[
+      {
+        "disabled": "disabled",
+        "subcode": "17ME35B /45B",
+        "subname": "Machine Tools And Operations",
+        "m1": "Module 1",
+        "m1desc": "MACHINE TOOLS:Introduction,Classification,construction and specifications of lathe,drilling machine,milling machine,boring machine,broaching machine,shaping machine,planning machine,grinding machine[Simple sketches showing major parts of the machines].",
+        "m2": "Module 2",
+        "m2desc": "MACHINING PROCESSES:Introduction,Types of motions in machining,turning and Boring,Shaping,Planningand Slotting,Thread cutting,Drilling and reaming,Milling,Broaching,Gear cutting and Grinding,Machining parameters and related quantities.[Sketches pertaining to relative motions between tool and work piece only]",
+        "m3": "Module 3",
+        "m3desc": "CUTTING TOOL MATERIALS,GEOMETRY AND SURFACE FINISH:Introduction,desirable Properties and Characteristics of cutting tool materials,cutting tool geometry,cutting fluids and its applications,surface finish,effect of machining parameters on surface finish.\nMachining equations for cutting operations:Turning,Shaping,Planing,slab milling,cylindrical grinding and internal grinding,Numerical Problems",
+        "m4": "Module 4",
+        "m4desc": "MECHANICS OF MACHINING PROCESSES:Introduction,Chip formation,Orthogonal cutting,Merchants model for orthogonal cutting, Oblique cutting,Mechanics of turning process,Mechanics of drilling process,Mechanics of milling process,Numerical problems.",
+        "m5": "Module 5",
+        "m5desc": "TOOL WEAR,TOOL LIFE:Introduction,tool wear mechanism,tool wear equations,tool life equations,effect of process parameters on tool life,machinability,Numerical problems.\nECONOMICS OF MACHNING PROCESSES:Introduction,choice of feed,choice of cutting speed,tool life for minimum cost and minimum production time,machining at maximum efficiency,Numerical problems.",
+        "descname": "Prescribed text books",
+        "descdata": "TEXT BOOKS:1.Fundamentals of metal cutting and Machine Tools,B.L.Juneja,G.S.Sekhon and Nitin Seth,New Age International Publishers 2nd Edition,2003.\n2.All about Machine Tools,Heinrich Gerling,New Age International Publishers revised 2nd Edition,2006\nREFERENCE BOOKS:1.Fundamental of Machining and Machine Tools,Geoffrey Boothroyd and Winston A.Knight, CRC Taylor& Francis,Third Edition.\n2.Metal cutting principles,Milton C.Shaw,Oxford University Press,Second Edition,2005.",
+        "notesurl": "https://adityam945.github.io/mech-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/mech-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/mech-json-files/",
+        "qbscreenparams": ""
+      }
+    ]
