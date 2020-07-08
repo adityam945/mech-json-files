@@ -1,0 +1,72 @@
+[
+    {
+      "semno":"Semester 4",
+      "branchname":"Mechanical Engineering",
+      "subjno":"6",
+      "labno":"2",
+      "screenname":"SubjectDetails",
+      "url":"",
+      "subjdata": [
+        {
+          "subj":"Engineering Mathematics-4",
+          "subjcode":"17MAT41",
+          "subjparams":""
+        },
+        {
+          "subj":"Kinematics of Machinery",
+          "subcode":"17ME42",
+          "subjparams":""
+        },
+        {
+          "subj":"Applied Thermodynamics",
+          "subcode":"17ME43",
+          "subjparams": ""
+        },
+        {
+          "subj":"Fluid mechanics",
+          "subcode":"17ME44",
+          "subjparams":""
+        },
+        {
+          "subj":"Metal Casting And Welding",
+          "subcode":"17ME45A",
+          "subjparams":""
+        },
+        {
+          "subj":"Machine Tools And Operations",
+          "subcode":"17ME45B",
+          "subjparams":""
+        },
+        {
+          "subj":"Computer Aided Machine Drawing",
+          "subcode":"17ME46A",
+          "subjparams":""
+        },
+        {
+          "subj":"Mechanical Measurements And Metrology",
+          "subcode":"17ME46B",
+          "subjparams":""
+        },
+        {
+          "subj":"Materials Testing Lab",
+          "subjcode":"17MEL47A",
+          "subjparams":""
+        },
+        {
+          "subj":"Mechanical Measurements And Metrology",
+          "subjcode":"17MEL47B",
+          "subjparams":""
+        },
+        {
+          "subj":"Foundry And Forging Lab",
+          "subjcode":"17MEL48A",
+          "subjparams":""
+        },
+        {
+          "subj":"MACHINE SHOP",
+          "subjcode":"17MEL48B",
+          "subjparams": ""
+        }
+      ]
+    }
+  ]
