@@ -43,7 +43,7 @@
       "subj6":"Computer Aided Machine Drawing\nMechanical Measurement and Metrology",
       "labname1":"Materials Testing Lab\nMechanical Measurements And Metrology Lab",
       "labname2":"Foundry And Forging Lab\nMachine Shop",
-      "syllabusscreentype":"SyllabusFile8Sub",
+      "syllabusscreentype":"SyllabusFile",
       "syllabusurl":"https://adityam945.github.io/mech-json-files/",
       "syllabusscreenparams":"mechsem4subjlist.json",
       "notesscreentype": "NotesListSubjFile",
