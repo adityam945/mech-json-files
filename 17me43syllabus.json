@@ -1,0 +1,32 @@
+[{
+    "_id":"3478",
+    "subcode":"17ME43",
+    "subname":"Applied Thermodynamics",
+    
+    "m1":"Module 1",
+    "m1desc":"Gas Power Cycles:Air standard cycles;Carnot,Otto,Diesel,Dual and Stirling cycles,p-v and T -s diagrams,description,efficiencies and mean effective pressures.Comparison of Otto and Diesel cycles.Gas turbine (Brayton) cycle;description and analysis.Regenerative gas turbine cycle.Inter-cooling and reheating in gas turbine cycles.\nJet propulsion:Introduction to the principles of jet propulsion.",
+    
+        "m2":"Module 2",
+    "m2desc":"Vapour Power Cycles:Carnotvapour power cycle,drawbacks as a reference cycle.Simple Rankine cycle;description,T-s diagram,analysis for performance.Comparison of Carnot and Rankine cycles.Effects of pressure and temperature on Rankine cycle performance.Actual vapour power cycles.Ideal and practical regenerative Rankine cycles,open and closed feed water heaters.Reheat Rankine cycle.Characteristics of an Ideal working fluid in Vapour power cycles,Binary Vapour cycles.",
+    
+        "m3":"Module 3",
+    "m3desc":"Combustion Thermodynamics:Theoretical (Stoichiometric) air for combustion of fuels.Excess air,mass balance,Exhaust gas analysis,A/F ratio.Energy balance for a chemical reaction,enthalpy of formation,enthalpy and internal energy of combustion.Combustion efficiency.Dissociation and equilibrium,emissions.\nI.C.Engines:Classification of IC engines,Combustion of SI engine and CI engine,Detonation and factors affecting detonation,Performance analysis of I.C Engines,heat balance,Morse test,IC Engine fuels,Ratings and Alternate Fuels.",
+    
+        "m4":"Module 4",
+    "m4desc":"Refrigeration Cycles:Vapour compression refrigeration system;description,analysis,refrigerating effect.Capacity,power required,units of refrigeration,COP,Refrigerants and their desirable properties,alternate Refrigerants.Any one case study on cold storage or industrial refrigerator.Air cycle refrigeration;reversed Carnot cycle,reversed Brayton cycle,Vapour absorption refrigeration system.Steam jet refrigeration.\nPscychrometrics and Air-conditioning Systems:Properties ofAtmospheric air,and Psychometric properties of Air,Psychometric Chart,Analyzing Air-conditioning Processes;Heating,Cooling,Dehumidification and Humidification,Evaporative Cooling.Adiabatic mixing of two moist air streams.Cooling towers.",
+   
+        "m5":"Module 5",
+    "m5desc":"Reciprocating Compressors:Operation of a single stage reciprocating compressors.Work input through p-v diagram and steady state steady flow analysis.Effect of Clearance and Volumetric efficiency.Adiabatic,Isothermal and Mechanical efficiencies.Multi-stage compressor,saving in work,Optimum intermediate pressure,Inter-cooling,Minimum work for compression.\nSteam nozzles:Flow of steam through nozzles,Shape of nozzles,effect of friction,Critical pressure ratio,Supersaturated flow.",
+    
+    "descname":"Prescribed text books",
+    "descdata":"TEXT BOOKS:1.Rattan S.S Theory of Machines,Tata McGraw-Hill Publishing Company Ltd.,New Delhi,4th Edition,2014.\n2.Ambekar A.G.,Mechanism and Machine Theory,PHI,2009.Thermodynamics an engineering approach,by Yunus A.Cenegal and Michael A.Boles.Tata McGraw hill Pub.Sixth edition,2008.\n3.Basic and Applied Thermodynamics” by P.K.Nag,Tata McGraw Hill,2nd Edi.2009.\n4.Fundamentals of Thermodynamics by G.J.Van Wylen and R.E.Sonntag,Wiley Eastern.Fourth edition 19993.\nREFERENCE BOOKS:\n1.Thermodynamics for engineers,Kenneth A.Kroos and Merle C.Potter,Cengage Learning,2016.\n2.Principles of Engineering Thermodynamics,Michael J,Moran,Howard N.Shapiro, Wiley,8th Edition.\n3.An Introduction to Thermo Dynamics by Y.V.C.Rao,Wiley Eastern Ltd,2003.\n4.Thermodynamics by Radhakrishnan.PHI,2nd revised edition.\n5.I.CEngines by Ganeshan.V.Tata McGraw Hill,4rth Edi. 2012.\n6.I.C.Engines by M.L.Mathur& Sharma.Dhanpat Rai & sons- India ",
+    "notesurl": "https://adityam945.github.io/mech-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+}]
