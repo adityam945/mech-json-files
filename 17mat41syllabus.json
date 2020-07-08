@@ -1,0 +1,32 @@
+[{
+    "_id":"4567",
+    "subcode":"17MAT41",
+    "subname":"Engineering Mathematics-4",
+   
+    "m1":"Module 1",
+    "m1desc":"Numerical Methods:Numerical solution of ordinary differential equations of first order and first degree,Taylor’s series method,modified Euler’s method.Runge-Kutta method of fourth order,Milne’s and Adams-Bashforth predictor and corrector methods (No derivations of formulae-single step computation only).",
+        
+          "m2":"Module 2",
+          "m2desc":"Numerical Methods:Numerical solution of second order ordinary differential equations,Runge-Kutta method and Milne’s method.(No derivations of formulae-single step computation only).\nSpecial Functions:Series solution of Bessel’s differential equation leading to Jn(x)Bessel’s function of first kind.Basic properties and orthogonality.Series solution of Legendre’s differential equation leading to Pn(x)-Legendre polynomials.Rodrigue’s formula,problems.",
+        
+          "m3":"Module 3",
+    "m3desc":"Complex Variables:Review of a function of a complex variable,limits,continuity,differentiability.Analytic functions-Cauchy-Riemann equations in cartesian and polar forms. Properties and construction of analytic functions.Complex line integrals-Cauchy’s theorem and Cauchy’s integral formula,Residue,poles,Cauchy’s Residue theorem ( without proof) and problems.\nTransformations:\nConformal transformations-Discussion of transformations:w=z2,w=ez,w =z +(1/z)(z ≠ 0),Bilinear transformations-problems.",
+        
+    "m4":"Module 4",
+    "m4desc":"Probability Distributions:Random variables (discrete and continuous),probability functions.Poisson distributions,geometric distribution,uniform distribution,exponential and normal distributions,Problems.\nJoint probability distribution:Joint Probability distribution for two variables,expectation,covariance,correlation coefficient.",
+   
+    "m5":"Module 5",
+    "m5desc":"Sampling Theory:Sampling,Sampling distributions,standard error,test of hypothesis for means and proportions,confidence limits for means,student’s t-distribution,Chisquare distribution as a test of goodness of fit.\nStochastic process:Stochastic process,probability vector,stochastic matrices,fixed points,regular stochastic matrices,Markov chains,higher transition probability.",
+        
+    "descname":"Prescribed text books",
+    "descdata":"Text  Books:1.B.V.Ramana Higher Engineering Mathematics Tata McGraw-Hill,2006.\n2.B.S.Grewal,Higher Engineering Mathematics,Khanna publishers,42nd edition,2013.\nReference Books:\n1.N P  Bali  and Manish Goyal,A text book of  Engineering mathematics,Laxmi publications,latest edition.\n2.Kreyszig,Advanced Engineering Mathematics-9th edition,Wiley,2013.\n3.H.K Dass and Er.RajnishVerma,Higher Engineering Mathematics,S.Chand, 1st ed,2011.",
+    "notesurl": "",
+     "notesscreenname": "NotesListFile",
+     "notesscreenparams": "",
+     "qpscreentype": "QPaperListFile",
+     "qpurl": "",
+     "qpscreenparams": "",
+     "qbscreentype": "QBankListFile",
+     "qburl": "",
+     "qbscreenparams": ""
+}]
