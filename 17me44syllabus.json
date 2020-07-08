@@ -21,13 +21,13 @@
     
     "descname":"Prescribed text books",
     "descdata":"TEXT BOOKS:\n1.Fluid Mechanics (SI Units),Yunus A.Cengel John M.Cimbala,3rd Ed.,Tata.\na.McGraw Hill,2014.\n2.Fluid Mechanics,F M White,McGraw Hill Publications Eighth edition.2016.\n3.Mechanics of Fluids,Merle C.Potter,Devid C.Wiggerrt,Bassem H.Ramadan,Cengage learning,Fourth editions 2016.\nREFERENCE BOOKS:\n1.Fundamentals of Fluid Mechanics by Munson,Young,Okiishi&Huebsch,John Wiley Publications.7th edition.\n2.Fluid Mechanics,Pijush.K.Kundu,IRAM COCHEN,ELSEVIER,3rd Ed.2005.\n3.Fluid Mechanics,John F.Douglas,Janul and M.Gasiosek and john A.Swaffield,Pearson Education Asia,5th ed.,2006.\n4.Introduction to Fluid Mechanics by Fox,McDonald,John Wiley Publications,8th edition.",
-    "notesurl": "",
+    "notesurl": "https://adityam945.github.io/mech-json-files/",
     "notesscreenname": "NotesListFile",
     "notesscreenparams": "",
     "qpscreentype": "QPaperListFile",
-    "qpurl": "",
+    "qpurl": "https://adityam945.github.io/mech-json-files/",
     "qpscreenparams": "",
     "qbscreentype": "QBankListFile",
     "qburl": "",
-    "qbscreenparams": ""
+    "qbscreenparams": "https://adityam945.github.io/mech-json-files/"
 }]
