@@ -10,42 +10,42 @@
         {
           "subj":"Engineering Mathematics-4",
           "subjcode":"17MAT41",
-          "subjparams":""
+          "subjparams":"17mat41syllabus.json"
         },
         {
           "subj":"Kinematics of Machinery",
           "subcode":"17ME42",
-          "subjparams":""
+          "subjparams":"17me42syllabus.json"
         },
         {
           "subj":"Applied Thermodynamics",
           "subcode":"17ME43",
-          "subjparams": ""
+          "subjparams": "17me43syllabus.json"
         },
         {
           "subj":"Fluid mechanics",
           "subcode":"17ME44",
-          "subjparams":""
+          "subjparams":"17me44syllabus.json"
         },
         {
           "subj":"Metal Casting And Welding",
           "subcode":"17ME45A",
-          "subjparams":""
+          "subjparams":"17me45asyllabus.json"
         },
         {
           "subj":"Machine Tools And Operations",
           "subcode":"17ME45B",
-          "subjparams":""
+          "subjparams":"17me45bsyllabus.json"
         },
         {
           "subj":"Computer Aided Machine Drawing",
           "subcode":"17ME46A",
-          "subjparams":""
+          "subjparams":"17me46asyllabus.json"
         },
         {
           "subj":"Mechanical Measurements And Metrology",
           "subcode":"17ME46B",
-          "subjparams":""
+          "subjparams":"17me46bsyllabus.json"
         },
         {
           "subj":"Materials Testing Lab",
