@@ -45,7 +45,7 @@
       "labname2":"Foundry And Forging Lab\nMachine Shop",
       "syllabusscreentype":"SyllabusFile8Sub",
       "syllabusurl":"https://adityam945.github.io/mech-json-files/",
-      "syllabusscreenparams":"",
+      "syllabusscreenparams":"mechsem4subjlist.json",
       "notesscreentype": "NotesListSubjFile",
       "notesurl": "https://adityam945.github.io/mech-json-files/",
       "notesscreenparams": "mechsem4notes.json",
