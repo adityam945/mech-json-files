@@ -1,0 +1,26 @@
+[{
+    "_id":"9876",
+    "subcode":"17ME46A",
+    "subname":"Computer Aided Machine Drawing",
+   
+    "m1":"Part A",
+    "m1desc":"INTRODUCTION TO COMPUTER AIDED SKETCHING:Review of graphic interface of the software.Review of basic sketching commands and navigational commands.Sections of Solids:Sections of Pyramids,Prisms,Cubes,Tetrahedrons,Cones and Cylinders resting only on their bases (No problems on,axis inclinations,spheres and hollow solids),True shape of section.\nOrthographic views:Conversion of pictorial views into orthographic projections of simple machine partswith or without section.(Bureau of Indian Standards conventions are to be followed for the drawings),Hidden line conventions,Precedence of lines.\nThread forms:Thread terminology,sectional views of threads.ISO Metric (Internal & External),BSW (Internal and External),square,Acme and Sellers thread,American Standard thread.\nFasteners:Hexagonal headed bolt and nut with washer(assembly),square headed bolt and nut with washer (assembly) simple assembly using stud bolts with nut and lock nut.Flanged nut,slotted nut,taper and split pin for locking,counter sunk head screw,grub screw,Allen screw.",
+   
+        "m2":"Part B",
+    "m2desc":"Keys and Joints:Parallel,Taper,Feather Key,Gib head key and Woodruff key.\nRiveted joints:Single and double riveted lap joints,Butt joints with single/double cover straps (Chain and zigzag using snap head riveters).\nJoints:Cotter joint (socket and spigot),Knuckle joint (pin joint) for two rods.\nCouplings: Split muff coupling,Protected type flange coupling,Pin (bush) type flexible coupling,Oldham’s coupling and Universal coupling (Hook’s Joint).",
+   
+        "m3":"Part C",
+    "m3desc":"Limits,Fits and Tolerances:Introduction,Fundamental tolerances,Deviations,Methods of placing limit dimensions,Types of fits with symbols and applications,Geometrical tolerances on drawings,Standards followed in industry.\nAssembly Drawings:(Part drawings shall be given)1.Plummer block (Pedestal Bearing)\n2.Rams Bottom Safety Valve.\n3.I.C.Engine connecting rod.\n4.Screw jack (Bottle type)/\n5.Tailstock of lathe.\n6. Machine vice.\n7. Lathe square tool post.",
+    
+    "descname":"Prescribed text books",
+    "descdata":"TEXT BOOKS:1.A Primer on Computer Aided Machine Drawing-2007,Published by VTU,Belgaum.\n2.Machine Drawing,N.D.Bhat&V.M.Panchal,Published by Charotar Publishing House,1999.\n3.Machine Drawing’,N.Siddeshwar,P.Kannaih,V.V.S.Sastri,published by Tata Mc.Grawhill,2006.\nREFERENCE BOOKS:1.A Text Book of Computer Aided Machine Drawing,S.Trymbakaa Murthy,CBS Publishers,New Delhi,2007.\n2.Machine Drawing,K.R.Gopala Krishna,Subhash publication.",
+    "notesurl":"https://adityam945.github.io/mech-json-files/",
+    "notesscreenname":"NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl":"https://adityam945.github.io/mech-json-files/",
+    "qpscreenparams":"",
+    "qbscreentype": "QBankListFile",
+    "qburl":"https://adityam945.github.io/mech-json-files/",
+    "qbscreenparams":""
+}]
