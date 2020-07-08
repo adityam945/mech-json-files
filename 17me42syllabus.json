@@ -1,0 +1,32 @@
+[{ 
+    "_id":"2112",
+    "subcode":"17ME42",
+    "subname":"Kinematics of Machinery",
+    
+    "m1":"Module 1",
+    "m1desc":"Introduction:Definitions:Link,kinematic pairs,kinematic chain,mechanism,structure,degrees of freedom,Classification links,Classifiction of pairs based on type of relative motion,Grubler's criterion,mobility of mechanism,Groshoff’s criteria,inversions of Grashoff’s chain.\nMechanisms:Quick return motion mechanisms-Drag link mechanism,Whitworth mechanism and Crank and slotted lever Mechanism.Oldham’s coupling,Straight line motion mechanisms,Peaucellier's mechanism and Robert's mechanism.Intermittent Motion mechanisms:Geneva wheel mechanism,Ratchet and Pawl mechanism,toggle mechanism,pantograph,condition for correct steering,Ackerman steering gear mechanism.",
+    
+    "m2":"Module 2",
+    "m2desc":"Velocity and Acceleration Analysis of Mechanisms (Graphical Method):Velocity and acceleration analysis of four bar mechanism,slider crank mechanism.Mechanism illustrating Corioli’s component of acceleration.Angular velocity and angular acceleration of links,velocity of rubbing.\nVelocity Analysis by Instantaneous Center Method:Definition,Kennedy's theorem,Determination of linear and angular velocity using instantaneous center method.\nKlein's Construction:Analysis of velocity and acceleration of single slider crank mechanism.",
+    
+        "m3":"Module 3",
+    "m3desc":"Velocity and Acceleration Analysis of Mechanisms (Analytical Method):Velocity and acceleration analysis of four bar mechanism,slider crank mechanism using complex algebra method.Freudenstein’s equation for four bar mechanism and slider crank mechanism.Function Generation for four bar mechanism.",
+    
+        "m4":"Module 4",
+    "m4desc":"Spur Gears:Gear terminology,law of gearing,path of contact,arc of contact,contact ratio of spur gear.Interference in involute gears,methods of avoiding interference,condition and expressions for minimum number of teeth to avoid interference.\nGear Trains:Simple gear trains,compound gear trains.\nEpicyclic gear trains:Algebraic and tabular methods of finding velocity ratio of epicyclic gear trains,torque calculation in epicyclic gear trains.",
+    
+        "m5":"Module 5",
+    "m5desc":"Cams:Types of cams,types of followers.displacement,velocity and acceleration curves for uniform velocity,Simple Harmonic Motion,Uniform Acceleration,Retardation and Cycloidal motion.\nCam profiles:disc cam with reciprocating followers such as knife-edge,roller and flat-face followers,inline and offset.\nAnalysis of Cams:Analysis of arc cam with flat faced follower.",
+        
+    "descname":"Prescribed text books",
+    "descdata":"TEXT BOOKS:\n1.Rattan S.S,Theory of Machines,Tata McGraw-Hill Publishing Company Ltd.,New Delhi,4th Edition,2014.\n2.Ambekar A.G.,Mechanism and Machine Theory,PHI,2009.\nREFERENCE BOOKS Michael M Stanisic,Mechanisms and Machines-Kinematics,Dynamics and Synthesis,Cengage Learning,2016.\n2.Sadhu Singh,Theory of Machines,Pearson Education (Singapore)Pvt. Ltd,Indian Branch New Delhi,2nd Edi.2006.",
+    "notesurl": "https://adityam945.github.io/mech-json-files/",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "17mat31notes.json",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+}]
