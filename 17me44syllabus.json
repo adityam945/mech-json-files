@@ -1,0 +1,33 @@
+[
+    {
+    "_id":"4325",
+    "subcode":"17ME44",
+    "subname":"Fluid mechanics",
+    
+    "m1":"Module 1",
+    "m1desc":"Basics:Introduction,Properties of fluids-mass density,weight density,specific volume,specific gravity,viscosity,surface tension,capillarity,vapour pressure,compressibility and bulk modulus.Concept of continuum,types of fluids etc,pressure at a point in the static mass of fluid,variation of pressure,Pascal’s law,Absolute,gauge,atmospheric and vacuum pressures pressure measurement by simple,differential manometers and mechanical gauges.\nFluid Statics:Totalpressure and center of pressure for horizontal plane,vertical plane surface and inclined plane surface submerged in static fluid.Buoyancy,center of buoyancy,meta center and meta centric heightits application in shipping,stability of floating bodies.",
+   
+        "m2":"Module 2",
+    "m2desc":"Fluid Kinematics:Types of Flow-steady,unsteady,uniform,non-uniform,laminar,turbulent,one,two and three dimensional,compressible,incompressible,rotational,irrotational,stram lines,path lines,streak lines,velocity components,convective and local acceleration,velocity potential,stream function,continuity equation in Cartesian co-ordinates.Rotation,vorticity and circulation,Laplace equation in velocity potential and Poisson equation in stream function,flow net,Problems.\nFluid Dynamics:Momentum equation,Impacts of jets-force on fixed and moving vanes,flat and curved.Numericals.Euler’s equation,Integration of Euler’s equation to obtain Bernoulli’s equation,Bernoulli’s theorem,Application of Bernoulli’s theorem such as venturi meter,orifice meter,rectangular and triangular notch,pitot tube,orifices etc.,related numericals.",
+    
+        "m3":"Module 3",
+    "m3desc":"Laminar and turbulent flow:Reynods Number,Entrance flow and Developed flow,Navier-Stokes Equation (no derivation),Laminar flow between parallel plates,Poiseuille equation–velocity profile,Couette flow,Fully developed laminar flow in circular pipes,Hagen-Poiseuille equation,related numericals.Energy consideration in pipe flow,Loss of Pressure Head due to Fluid Friction,Darcy Weishach formula,major and minor losses in pipes,Commercial pipe,Colebrook equation,Moody equation/diagram.Pipes in series,parallel,equivalent pipe,Related Numericals and simple pipe design problems.",
+    
+    "m4":"Module 4",
+    "m4desc":"Flow over bodies:Development of boundary layer,Prandtl’s boundary layer equations,Blasius solution,laminar layer over a flat plate,boundary layer separation and its control.Basic concept of Lift and Drag,Types of drag,Co-efficient of drag and lift,streamline body and bluff body,flow around circular bodies and airfoils,Lift and drag on airfoil,Numerical problems.\nDimensional analysis:Need for dimensional analysis,Dimensions and units,Dimensional Homogeneity and dimensionless ratios,methods of dimensional analysis,Rayleigh’s method,Buckingham Pi theorem,Similitude and Model studies.Numerical problems.",
+   
+        "m5":"Module 5",
+    "m5desc":"Compressible Flows:Introduction,thermodynamic relations of perfect gases,internal energy andenthalpy,speed of sound,pressure field due to a moving source,basic Equations for one-dimensional flow,stagnation and sonic Properties,normal and oblique shocks.\nIntroduction to CFD:Necessity,limitations,philosophy behind CFD,and applications.",
+    
+    "descname":"Prescribed text books",
+    "descdata":"TEXT BOOKS:\n1.Fluid Mechanics (SI Units),Yunus A.Cengel John M.Cimbala,3rd Ed.,Tata.\na.McGraw Hill,2014.\n2.Fluid Mechanics,F M White,McGraw Hill Publications Eighth edition.2016.\n3.Mechanics of Fluids,Merle C.Potter,Devid C.Wiggerrt,Bassem H.Ramadan,Cengage learning,Fourth editions 2016.\nREFERENCE BOOKS:\n1.Fundamentals of Fluid Mechanics by Munson,Young,Okiishi&Huebsch,John Wiley Publications.7th edition.\n2.Fluid Mechanics,Pijush.K.Kundu,IRAM COCHEN,ELSEVIER,3rd Ed.2005.\n3.Fluid Mechanics,John F.Douglas,Janul and M.Gasiosek and john A.Swaffield,Pearson Education Asia,5th ed.,2006.\n4.Introduction to Fluid Mechanics by Fox,McDonald,John Wiley Publications,8th edition.",
+    "notesurl": "",
+    "notesscreenname": "NotesListFile",
+    "notesscreenparams": "",
+    "qpscreentype": "QPaperListFile",
+    "qpurl": "",
+    "qpscreenparams": "",
+    "qbscreentype": "QBankListFile",
+    "qburl": "",
+    "qbscreenparams": ""
+}]
