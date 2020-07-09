@@ -3,20 +3,51 @@
     "beanchname": "MECHANICAL ENGINEERING",
     "semdata": [
       {
-        "id":"1890",
+        "id": "1890",
         "disabled": "disabled",
-        "semname":"Semester 3",
-        "labno":"2",
-        "subjno":"6",
-        "subj1":"1.Engineering Mathematics–III",
-        "subj2":"2.Materials Science",
-        "subj3":"3.Basic Thermodynamics",
-        "subj4":"4.Mechanics of Materials",
-        "subj5":"5.a Metal Casting and Welding\n5.b Machine Tools and Operations",
-        "subj6":"6.a Computer Aided Machine Drawing\n6.b Mechanical Measurements and Metrology",
-        "labname1":"1.a Materials Testing Lab\n1.b Mechanical Measurements And Metrology Lab",
-        "labname2":"2.a Foundry And Forging Lab\n2.b Machine Shop",
-        "syllabusscreentype":"SyllabusFile",
+        "semname": "Semester 3",
+        "labno": "2",
+        "subjno": "6",
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics–III"
+          },
+          {
+            "subj": "2.Materials Science"
+          },
+          {
+            "subj": "3.Basic Thermodynamics"
+          },
+          {
+            "subj": "4.Mechanics of Materials"
+          },
+          {
+            "subj": "5.a Metal Casting and Welding"
+          },
+          {
+            "subj": "5.b Machine Tools and Operations"
+          },
+          {
+            "subj": "6.a Computer Aided Machine Drawing"
+          },
+          {
+            "subj": "6.b Mechanical Measurements and Metrology"
+          },
+          {
+            "subj": "1.a Materials Testing Lab"
+          },
+          {
+            "subj": "1.b Mechanical Measurements And Metrology Lab"
+          },
+          {
+            "subj": "2.a Foundry And Forging Lab"
+          },
+          {
+            "subj": "2.b Machine Shop"
+          }
+        ],
+
+        "syllabusscreentype": "SyllabusFile",
         "syllabusurl": "https://adityam945.github.io/mech-json-files/",
         "syllabusscreenparams": "mechsem3subjlist.json",
         "notesscreentype": "NotesListSubjFile",
@@ -30,32 +61,62 @@
         "qbscreenparams": ""
       },
       {
-      "id":"2540",
-      "disabled": "disabled",
-      "semname":"Semester 4",
-      "labno":"2",
-      "subjno":"6",
-      "subj1":"1.Engineering Mathematics–4",
-      "subj2":"2.Kinematics of Machinery",
-      "subj3":"3.Applied Thermodynamics",
-      "subj4":"4.Fluid mechanics",
-      "subj5":"5.a Metal Casting and Welding\n5.b Machine Tools and Operations",
-      "subj6":"6.a Computer Aided Machine Drawing\n6.b Mechanical Measurement and Metrology",
-      "labname1":"1.a Materials Testing Lab\n1.b Mechanical Measurements And Metrology Lab",
-      "labname2":"2.a Foundry And Forging Lab\n2.b Machine Shop",
-      "syllabusscreentype":"SyllabusFile",
-      "syllabusurl":"https://adityam945.github.io/mech-json-files/",
-      "syllabusscreenparams":"mechsem4subjlist.json",
-      "notesscreentype": "NotesListSubjFile",
-      "notesurl": "https://adityam945.github.io/mech-json-files/",
-      "notesscreenparams": "mechsem4notes.json",
-      "qpscreentype":"QPaperListSubjsFile",
-      "qpurl":"https://adityam945.github.io/mech-json-files/",
-      "qpscreenparams":"",
-      "qbscreentype":"QBankListSubjsFile",
-      "qburl":"https://adityam945.github.io/mech-json-files/",
-      "qbscreenparams":""
-    }
-  ]
-}
+        "id": "2540",
+        "disabled": "disabled",
+        "semname": "Semester 4",
+        "labno": "2",
+        "subjno": "6",
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics–4"
+          },
+          {
+            "subj": "2.Kinematics of Machinery"
+          },
+          {
+            "subj": "3.Applied Thermodynamics"
+          },
+          {
+            "subj": "4.Fluid mechanics"
+          },
+          {
+            "subj": "5.a Metal Casting and Welding"
+          },
+          {
+            "subj": "5.b Machine Tools and Operations"
+          },
+          {
+            "subj": "6.a Computer Aided Machine Drawing"
+          },
+          {
+            "subj": "6.b Mechanical Measurements and Metrology"
+          },
+          {
+            "subj": "1.a Materials Testing Lab"
+          },
+          {
+            "subj": "1.b Mechanical Measurements And Metrology Lab"
+          },
+          {
+            "subj": "2.a Foundry And Forging Lab"
+          },
+          {
+            "subj": "2.b Machine Shop"
+          }
+        ],
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/mech-json-files/",
+        "syllabusscreenparams": "mechsem4subjlist.json",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/mech-json-files/",
+        "notesscreenparams": "mechsem4notes.json",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "https://adityam945.github.io/mech-json-files/",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "https://adityam945.github.io/mech-json-files/",
+        "qbscreenparams": ""
+      }
+    ]
+  }
 ]
